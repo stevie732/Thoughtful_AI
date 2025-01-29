@@ -23,6 +23,9 @@ in your `cli` type:
 - then activate your virtual environment by typing:
 `source .venv/bin/activate`
 
+## Install dependencies:
+- `pip install -r requirements.txt`
+
 #### Your app is ready to run!!!! :)
 
 ***
